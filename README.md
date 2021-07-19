@@ -10,7 +10,7 @@
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Amr-abdelsamee"/>
+  <img width=500 src="https://github-profile-trophy.vercel.app/?username=Amr-abdelsamee"/>
 </a>
 
 
@@ -26,4 +26,4 @@
 
 ### Contacts
 - **Email:** Amr_abdelsamee@yahoo.com
-- **Facebook:**[Amr Abd ELsamee](https://www.facebook.com/Amr.Abdelsame3/)
+- **Facebook:** [Amr Abd ELsamee](https://www.facebook.com/Amr.Abdelsame3/)
