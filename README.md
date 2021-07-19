@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on a web project
 - 🌱 I’m currently learning Python
+- 💬 Ask me [here](https://github.com/Amr-abdelsamee/Amr-abdelsamee/issues) or via contacts
 - 📫 [How to reach me](#Contacts)
 - 😄 Pronouns: He/Him
 
