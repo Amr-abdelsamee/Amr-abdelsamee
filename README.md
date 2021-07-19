@@ -10,7 +10,7 @@
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=500 src="https://github-profile-trophy.vercel.app/?username=Amr-abdelsamee"/>
+  <img width=700 src="https://github-profile-trophy.vercel.app/?username=Amr-abdelsamee"/>
 </a>
 
 
