@@ -10,5 +10,3 @@
 ![GitHub metrics](https://metrics.lecoq.io/Amr-abdelsamee)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Amr-abdelsamee)  
-
-![Profile views](https://gpvc.arturio.dev/Amr-abdelsamee)  
