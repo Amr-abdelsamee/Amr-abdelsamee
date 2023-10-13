@@ -2,9 +2,7 @@
 <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" align="center" style="width: 100%" />
 </div>  
   
-<br/>  
-<h1 align="center" >Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Amr</h1>  
-<br/>  
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Amr</h1>
 
 <!-- 
 ## My Skill Set  
@@ -32,14 +30,8 @@
 
 </td></tr></table>  
  -->
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amr-abdelsamee&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr-abdelsamee&show_icons=true&locale=en&layout=compact" alt="Amr-abdelsamee" /></div>
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amr-abdelsamee&show_icons=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-abdelsamee&layout=compact)
 
 
 ## Connect with me  
