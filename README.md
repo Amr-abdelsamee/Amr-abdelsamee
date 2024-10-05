@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" align="center" style="width: 100%" /> -->
-<img src="[https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)" align="center" style="width: 100%" />
+<img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" align="center" style="width: 100%" />
 </div>  
 
 ###
